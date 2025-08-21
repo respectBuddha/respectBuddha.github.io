@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      S002 关于《时轮金刚》（Kālacakra Tantra）的中文译本
+title:      S007 关于《时轮金刚》（Kālacakra Tantra）的中文译本
 subtitle:   
 date:       2025-08-20
 author:     respectBuddha
